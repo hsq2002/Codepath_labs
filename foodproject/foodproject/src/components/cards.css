@@ -1,0 +1,28 @@
+/* Apply margin to the card class to create spacing */
+.card {
+    margin: 10px; /* Adjust the value as needed for your desired spacing */
+}
+
+/* Style the card container and text */
+.card-text {
+    background-color: #ffffff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* Style the button */
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 40px; /* Adjust the value as needed for your desired spacing */
+}
